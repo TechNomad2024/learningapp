@@ -1,0 +1,7 @@
+C:\Users\lucal\Desktop\Apps\.netapps\AZ-204\learningapp\bin\Publish\learningapp.exe
+C:\Users\lucal\Desktop\Apps\.netapps\AZ-204\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\lucal\Desktop\Apps\.netapps\AZ-204\learningapp\bin\Publish\appsettings.json
+C:\Users\lucal\Desktop\Apps\.netapps\AZ-204\learningapp\bin\Publish\learningapp.dll
+C:\Users\lucal\Desktop\Apps\.netapps\AZ-204\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\lucal\Desktop\Apps\.netapps\AZ-204\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\lucal\Desktop\Apps\.netapps\AZ-204\learningapp\bin\Publish\learningapp.pdb
